@@ -1,5 +1,6 @@
 {
   "name": "dingtalk-coze-bot",
   "version": "1.0.0",
+  "type": "module",
   "description": "钉钉机器人与扣子智能体桥接服务"
 }
