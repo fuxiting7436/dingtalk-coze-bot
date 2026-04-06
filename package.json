@@ -1,11 +1,5 @@
 {
   "name": "dingtalk-coze-bot",
   "version": "1.0.0",
-  "description": "钉钉机器人与扣子智能体桥接服务",
-  "scripts": {
-    "start": "node api/dingtalk/webhook.js"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "description": "钉钉机器人与扣子智能体桥接服务"
 }
